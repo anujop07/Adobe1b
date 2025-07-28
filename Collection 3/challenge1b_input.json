@@ -1,0 +1,19 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_001",
+    "test_case_name": "recipe_collection"
+  },
+  "documents": [
+    {"filename": "Breakfast Ideas.pdf", "title": "Breakfast Ideas"},
+    {"filename": "Dinner Ideas - Mains_1.pdf", "title": "Dinner Ideas - Mains 1"},
+    {"filename": "Dinner Ideas - Mains_2.pdf", "title": "Dinner Ideas - Mains 2"},
+    {"filename": "Dinner Ideas - Mains_3.pdf", "title": "Dinner Ideas - Mains 3"},
+    {"filename": "Dinner Ideas - Sides_1.pdf", "title": "Dinner Ideas - Sides 1"},
+    {"filename": "Dinner Ideas - Sides_2.pdf", "title": "Dinner Ideas - Sides 2"},
+    {"filename": "Dinner Ideas - Sides_3.pdf", "title": "Dinner Ideas - Sides 3"},
+    {"filename": "Dinner Ideas - Sides_4.pdf", "title": "Dinner Ideas - Sides 4"},
+    {"filename": "Lunch Ideas.pdf", "title": "Lunch Ideas"}
+  ],
+  "persona": {"role": "Food Contractor"},
+  "job_to_be_done": {"task": "Prepare vegetarian buffet-style dinner menu for corporate gathering"}
+} 

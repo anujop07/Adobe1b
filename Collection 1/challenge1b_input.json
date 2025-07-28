@@ -1,0 +1,17 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "travel_planning"
+  },
+  "documents": [
+    {"filename": "guide1.pdf", "title": "South of France Guide 1"},
+    {"filename": "guide2.pdf", "title": "South of France Guide 2"},
+    {"filename": "guide3.pdf", "title": "South of France Guide 3"},
+    {"filename": "guide4.pdf", "title": "South of France Guide 4"},
+    {"filename": "guide5.pdf", "title": "South of France Guide 5"},
+    {"filename": "guide6.pdf", "title": "South of France Guide 6"},
+    {"filename": "guide7.pdf", "title": "South of France Guide 7"}
+  ],
+  "persona": {"role": "Travel Planner"},
+  "job_to_be_done": {"task": "Plan a 4-day trip for 10 college friends to South of France"}
+} 

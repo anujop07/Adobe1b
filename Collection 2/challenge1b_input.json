@@ -1,0 +1,25 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_003",
+    "test_case_name": "acrobat_learning"
+  },
+  "documents": [
+    {"filename": "acrobat1.pdf", "title": "Acrobat Tutorial 1"},
+    {"filename": "acrobat2.pdf", "title": "Acrobat Tutorial 2"},
+    {"filename": "acrobat3.pdf", "title": "Acrobat Tutorial 3"},
+    {"filename": "acrobat4.pdf", "title": "Acrobat Tutorial 4"},
+    {"filename": "acrobat5.pdf", "title": "Acrobat Tutorial 5"},
+    {"filename": "acrobat6.pdf", "title": "Acrobat Tutorial 6"},
+    {"filename": "acrobat7.pdf", "title": "Acrobat Tutorial 7"},
+    {"filename": "acrobat8.pdf", "title": "Acrobat Tutorial 8"},
+    {"filename": "acrobat9.pdf", "title": "Acrobat Tutorial 9"},
+    {"filename": "acrobat10.pdf", "title": "Acrobat Tutorial 10"},
+    {"filename": "acrobat11.pdf", "title": "Acrobat Tutorial 11"},
+    {"filename": "acrobat12.pdf", "title": "Acrobat Tutorial 12"},
+    {"filename": "acrobat13.pdf", "title": "Acrobat Tutorial 13"},
+    {"filename": "acrobat14.pdf", "title": "Acrobat Tutorial 14"},
+    {"filename": "acrobat15.pdf", "title": "Acrobat Tutorial 15"}
+  ],
+  "persona": {"role": "HR Professional"},
+  "job_to_be_done": {"task": "Create and manage fillable forms for onboarding and compliance"}
+} 

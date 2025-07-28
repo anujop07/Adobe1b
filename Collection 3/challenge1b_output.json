@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare veg dinner menu",
+        "processing_timestamp": "2025-07-28T13:06:50.911022"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "Salt and pepper to taste",
+            "importance_rank": 1,
+            "page_number": 14
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Bratkartoffeln (Fried Potatoes)",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Spaghetti Bolognese",
+            "importance_rank": 3,
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "section_title": "Chopped parsley for garnish",
+            "importance_rank": 4,
+            "page_number": 6
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 5,
+            "page_number": 4
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "refined_text": "2 cups beef broth  1 can (14.5 ounces) diced tomatoes  1 carrot, diced  1 celery stalk, diced  1 teaspoon thyme  1 bay leaf  2 tablespoons olive oil.  Preheat oven to 350°F (175°C)",
+            "page_number": 14
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "add diced tomatoes, fish stock, wine, saffron, thyme, salt, and pepper, simmer for 20 minutes. add fish fillets, shrimp, and mussels, cook until seafood is done.",
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "1 pound ground beef  1 small onion, diced  2 cloves garlic, minced  1 carrot, grated  1 celery stalk, diced  1 can (28 ounces) crushed tomatoes  1/4 cup tomato paste  1/2 cup red wine.",
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "In a large skillet, heat olive oil and 1 tablespoon butter over medium heat. sauté onion, garlic, and mushrooms until tender. add warm broth, one ladle at a time, stirring until absorbed before adding more.",
+            "page_number": 6
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "o 1 teaspoon crayfish powder o 1 teaspoon salt o 1/2 teaspoon pepper o 4 cups water o 1/4 cup spinach. add diced tomatoes, ground egusi seeds, and crayfish powder, cook for 5 minutes.",
+            "page_number": 4
+        }
+    ]
+}
